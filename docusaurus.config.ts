@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://jaedonspurlock01.github.io/",
+  url: "https://tec-wel.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/welfie-docs",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "JaedonSpurlock01", // Usually your GitHub org/user name.
-  projectName: "welfie-docs", // Usually your repo name.
+  organizationName: "Tec-Wel", // Usually your GitHub org/user name.
+  projectName: "https://tec-wel.github.io/", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
