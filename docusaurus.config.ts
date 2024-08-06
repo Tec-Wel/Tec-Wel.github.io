@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Tec-Wel", // Usually your GitHub org/user name.
-  projectName: "https://tec-wel.github.io/", // Usually your repo name.
+  projectName: "tec-wel.github.io/", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
