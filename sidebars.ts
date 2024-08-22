@@ -35,7 +35,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Learning Management System",
-      items: ["lms/intro"],
+      items: ["lms/intro", "lms/flashcards"],
     },
   ],
   tutorialSidebar: [
