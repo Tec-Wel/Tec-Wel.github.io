@@ -6,12 +6,16 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ```
 > npm install
+or
+$ yarn install
 ```
 
 ### Local Development
 
 ```
 > npm run start
+or
+$ yarn run start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,7 +23,9 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ npm run build
+> npm run build
+or
+> yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
@@ -27,7 +33,9 @@ This command generates static content into the `build` directory and can be serv
 It is always recommended to test your build locally to make sure it is still working. You can do this by,
 
 ```
-npm run serve
+> npm run serve
+or
+> yarn serve
 ```
 
 ### Development
