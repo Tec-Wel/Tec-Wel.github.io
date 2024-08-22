@@ -20,7 +20,22 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Mobile Application",
-      items: ["mobile/intro", "mobile/auth"],
+      items: ["mobile/installation", "mobile/intro", "mobile/auth"],
+    },
+    {
+      type: "category",
+      label: "Web Application",
+      items: ["website/intro"],
+    },
+    {
+      type: "category",
+      label: "HeroAI",
+      items: ["hero-ai/intro"],
+    },
+    {
+      type: "category",
+      label: "Learning Management System",
+      items: ["lms/intro"],
     },
   ],
   tutorialSidebar: [
