@@ -30,7 +30,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "HeroAI",
-      items: ["hero-ai/intro"],
+      items: ["hero-ai/intro", "hero-ai/auth", "hero-ai/installation"],
     },
     {
       type: "category",
