@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Web Application",
-      items: ["website/intro"],
+      items: ["website/intro", "website/test-doc"],
     },
     {
       type: "category",
